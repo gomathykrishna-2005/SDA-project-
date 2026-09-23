@@ -1,0 +1,7 @@
+.venv/
+.venv39/
+.ipynb_checkpoints/
+Libraries/river_old/
+__pycache__/
+*.pyc
+.env
