@@ -1,0 +1,2 @@
+Method,K,Pool_Size,Accuracy,Precision,Recall,F1,Total_Time_s,N_Drifts
+MSANA-Baseline,all,4,99.12,97.74,96.9,97.32,19.0494,3
