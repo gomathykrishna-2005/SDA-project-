@@ -16,6 +16,15 @@ doi: [10.1109/TII.2022.3212003](https://ieeexplore.ieee.org/document/9910406)
 
 ---
 
+## Work by
+
+**Adithyaa S Kumar(2023BCS0055)
+**Gomathy Krishna Binu(2023BCD0028)
+**Aswin Suresh Kumar(2023BCS0073)
+**H S Adithyan(2023BCS0034)
+
+---
+
 ## Research Question
 
 > **"Can selecting the Top-K most relevant auxiliary streams reduce the computational cost of multistream concept-drift adaptation while maintaining prediction performance?"**
